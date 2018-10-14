@@ -7,3 +7,6 @@ Mejoras:
 - Sprites mejorados.
 - Valores de monedas positivos y negativos.
 - Tecla "Esc" para salir del juego.
+
++ EndlessRunner2D: Contiene el código del juego.
++ EndlessRunner2DGame: Contiene el juego ya compilado.
