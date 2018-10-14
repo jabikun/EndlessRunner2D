@@ -6,3 +6,4 @@ Mejoras:
 - Tope de pantalla superior.
 - Sprites mejorados.
 - Valores de monedas positivos y negativos.
+- Tecla "Esc" para salir del juego.
