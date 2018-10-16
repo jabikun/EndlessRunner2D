@@ -10,3 +10,8 @@ Mejoras:
 
 + EndlessRunner2D: Contiene el código del juego.
 + EndlessRunner2DGame: Contiene el juego ya compilado.
+
+Controles:
+
+- Espacio: Salto
+- Esc: Finalizar Juego
